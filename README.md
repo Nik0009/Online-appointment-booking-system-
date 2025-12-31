@@ -4,7 +4,7 @@ Project Name: Online Appointment System
 Technology: Java, Hibernate, MySQL
 Architecture: DAO + Hibernate ORM
 
-Objectives
+Objectives:-
 1 To develop a Java-based Online Appointment System.
 2 To use Hibernate ORM for database interaction.
 3 To manage users, providers, admins, and appointments.
